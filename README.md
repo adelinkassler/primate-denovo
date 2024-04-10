@@ -1,10 +1,11 @@
----
+<!-- ---
 title: Protein Prediction Data Analysis Toolkit
 author: Daniel Kassler  (`dkassler@g.harvard.edu`)
 output:
   html_document:
     toc: true
----
+--- -->
+<!-- Uncomment the block above to export with rmarkdown -->
 
 # About this toolkit
 
