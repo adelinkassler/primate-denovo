@@ -1,0 +1,12 @@
+20211122
+
+    Rscript pp_toolkit/scripts/make_plots.R --control-table pp_toolkit/control/control1.csv --data-dir Data/ --backend pp_toolkit/scripts/ --output-file boxplots_compress.pdf --compress --x-gap-after 4 --skip-outliers
+Warning message:
+package ‘stringr’ was built under R version 3.5.2 
+Using compressed plotting size
+There were 50 or more warnings (use warnings() to see the first 50)
+Generated 420 plots
+Plots have been saved in boxplots_compress.pdf
+
+20230816
+    Rscript pp_toolkit/scripts/make_plots.R --control-table pp_toolkit/control/control1.csv --data-dir Data/ --backend pp_toolkit/scripts/ --output-file boxplots_full.pdf --x-gap-after 4 --skip-outliers

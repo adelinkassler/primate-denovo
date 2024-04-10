@@ -1,0 +1,50 @@
+#TMD
+TMD_Tot_Len
+Waltz_Tot_len
+Tango_Tot_len
+Non-polar hydrophobic: F,A,L,M,I,W,P,V
+Hydrophobic: V,I,L,F,M,W,Y,C
+Oiliness: F,I,L,V
+Essential AA: F, V, T, W, M, L, I, K H
+AT- only genetic code:I,F,L,Y,N,K
+Basic AA: H,R,K
+IEP
+Total charge: (Positive - Negative)
+Uniprot evidence #
+#Pbind
+#Dbind
+#S-S
+S-Slen
+S-CaM-II
+#Clans
+T-CaM-II
+TP_len
+Phylostratum
+SP_len
+Non-essential AA: R,C,G,Q,P,Y, A, D, N, E, S
+Conformational:G,P
+Polar uncharged: C,G,Q,N,S,Y,T
+Polar:N,Q,S
+Order_AAs
+Seqlen
+Cost
+T-PKC
+T-unsp
+#S+T+Y
+S+T+Y-Max
+#Disordered
+S-unsp
+S-PKC
+#Helix
+Y-unsp
+Y-INSR
+#PfamA_Doms
+#Strand
+#Loop
+#D+KEN
+#coils
+#FlexDR
+#LongDR
+PAPA_Max_Score
+Acidic AA: D,E
+Dispensable: A,D,N,E,S

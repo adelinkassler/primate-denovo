@@ -1,0 +1,59 @@
+Norm-#(S+T+Y)
+Norm-S-unsp
+%S
+Loop%
+Loop_avg
+Norm-#PAPA_Max_score
+Protein radius
+Helix_avg
+Norm-Coils_Tot_len
+#Y-Max/#Y
+Norm-#(D+KEN)
+#S-Max/#S
+Norm-#FlexDR
+Norm-#LongDR
+Other%
+New-Norm-lbExpose
+%Expose
+%Disordered
+%D
+%E
+Norm-Total Absolute charge: (Positive + Negative)
+%R
+Norm-T-unsp
+#T-Max/#T
+#(S+T+Y)-Max/#(S+T+Y)
+Norm-#Helix
+(Norm#Helix - Norm#Strand)/(Norm#Helix + Norm#Strand)
+%L
+% (H+Sh)
+Helix%
+Norm-#TMD
+Norm-Waltz_Tot_len
+(Tango+Waltz)/2
+Norm-Tango_Tot_len
+Avg(Norm-Tango_Tot_len + Norm_Waltz_Tot_len)
+%I
+Norm-AA Volume per AA
+%F
+Norm-Order_Aas: W C F I Y V L
+Norm-AA Cost per AA
+Norm-#Pbind
+Norm-Total Relative charge: (Positive - Negative)/(Positive + Negative)
+%C
+Norm-#Dbind
+%H
+%M
+%InTop
+Norm-#PfamA_Doms
+%CovA
+Norm-Y-unsp
+%Y
+Norm-Neither_Aas: H M G D N T
+%N
+Norm-#S-S
+NormS-S_len
+%W
+Strand_avg
+Strand%
+Norm-#Strand

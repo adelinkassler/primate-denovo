@@ -1,0 +1,23 @@
+# R project
+*.Rproj
+*.Rproj.user
+/renv/*
+.Rhistory
+
+# Output files
+/Output/*
+*.pdf
+
+# Exports
+*.zip
+pp_toolkit*/*
+
+# Log files
+*.err
+
+# Data files
+*.csv
+
+# Misc binart files
+.DS_Store
+
